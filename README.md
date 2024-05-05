@@ -1,2 +1,1 @@
-# helloworld-pages
-testing github pages
+# hello world
